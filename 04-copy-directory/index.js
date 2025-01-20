@@ -15,3 +15,5 @@ function copyDirectory(origFileSrc, copyFileSrc) {
 };
 
 copyDirectory(origFileSrc, copyFileSrc);
+
+module.exports = copyDirectory;
